@@ -1,2 +1,2 @@
-# wasm-as-features-status
+# wasm-as-feature-status
 WebAssembly &lt;> AssemblyScript Raw Feature Status
